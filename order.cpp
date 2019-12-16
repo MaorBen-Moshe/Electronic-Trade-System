@@ -1,4 +1,4 @@
-#include "../../include/system.h"
+#include "system.h"
 
 Order::Order(Product **order_list, float price,
              unsigned int physical_size, unsigned int logical_size)

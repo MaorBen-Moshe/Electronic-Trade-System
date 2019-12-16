@@ -1,4 +1,4 @@
-#include "../../include/system.h"
+#include "system.h"
 Address *System::makeAddress()
 {
     Address *new_address = nullptr;

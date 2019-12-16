@@ -1,4 +1,4 @@
-#include "../../include/system.h"
+#include "system.h"
 //static declaration
 char *Product::CategoryNames[4] = {(char *)"Children", (char *)"Electricity", (char *)"Office", (char *)"Clothing"};
 unsigned int Product::counter = 0;

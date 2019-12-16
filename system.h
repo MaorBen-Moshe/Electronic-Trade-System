@@ -6,13 +6,13 @@
 #include <string.h>
 using namespace std;
 
-#include "./order.h"
-#include "./address.h"
-#include "./product.h"
-#include "./customer.h"
-#include "./seller.h"
-#include "./FeedBack.h"
-#include "./Date.h"
+#include "order.h"
+#include "address.h"
+#include "product.h"
+#include "customer.h"
+#include "seller.h"
+#include "FeedBack.h"
+#include "Date.h"
 class Customer;
 class Seller;
 class System

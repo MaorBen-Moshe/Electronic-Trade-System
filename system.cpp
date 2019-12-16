@@ -1,4 +1,4 @@
-#include "../../include/system.h"
+#include "system.h"
 System::System(Customer **customers_array, Customer *logged_in_customer,
                Seller *logged_in_seller, Seller **sellers_array,
                unsigned int customers_array_physical_size,
